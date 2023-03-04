@@ -1,0 +1,20 @@
+{
+  "name": "workreport",
+  "version": "1.0.0",
+  "description": "This is a web application to submit daily work report",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rasika Purohit",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasikapurohit/workreport.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rasikapurohit/workreport/issues"
+  },
+  "homepage": "https://github.com/rasikapurohit/workreportreadme"
+}
